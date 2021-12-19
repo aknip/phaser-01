@@ -1,4 +1,4 @@
-# gitpod-static-html-template
+# phaser-01
 
 Start with: https://gitpod.io/#https://github.com/aknip/phaser-01
 
