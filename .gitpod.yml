@@ -1,0 +1,6 @@
+image: gitpod/workspace-full
+vscode:
+  extensions:
+    - ritwickdey.liveserver
+    - abusaidm.html-snippets
+    - Zignd.html-css-class-completion
