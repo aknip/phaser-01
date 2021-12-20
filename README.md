@@ -20,3 +20,10 @@ CMD SHIFT P : Comman Palette
 - Option 2: 
     - npm install http-server -g
     - http-server -p 9000
+
+
+## Notes
+Install "Save Editors layout": Download from Github, unzip, create .vsix, upload .vsix to Gitpod, install extension
+- https://github.com/ctf0/vscode-save-editor-layout
+- https://code.visualstudio.com/api/working-with-extensions/publishing-extension
+- https://stackoverflow.com/questions/42017617/how-to-install-vs-code-extension-manually
